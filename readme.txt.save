@@ -1,0 +1,12 @@
+#Delete the second line
+git diff readme.txt
+^X
+
+
+
+^X
+
+
+welcome to my first repo
+learning git is going well so far
+the third line
